@@ -242,7 +242,7 @@ prompt = ["A kejisks dog is diving",
 
 + LoRA 原理
 
-
+[Finetune LLMs: LoRA](https://mp.weixin.qq.com/s?__biz=Mzk0MzIzODM5MA==&mid=2247486577&idx=1&sn=281bf0e30b146a8d924cd1ea5d648b99&chksm=c337b1e8f44038feddaaa1a996026109eb728b0912dea9a3c3b9a013a1670eb7a0a98dddcef9#rd)
 
 + 微调运行
 
