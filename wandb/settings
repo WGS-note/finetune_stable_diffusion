@@ -1,0 +1,5 @@
+[default]
+entity = 1151573613
+project = train_lora
+base_url = https://api.wandb.ai
+
